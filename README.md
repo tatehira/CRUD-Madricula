@@ -1,4 +1,11 @@
-<h1>Projeto CRUD em C# e SQL Server</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <h1>Projeto CRUD em C# e SQL Server</h1>
     <p>Este é um projeto simples desenvolvido em C# que demonstra a funcionalidade básica de um CRUD (Create, Read, Update e Delete) conectado a um banco de dados SQL Server.</p>
     <h2>Recursos e Funcionalidades:</h2>
     <ul>
@@ -19,3 +26,4 @@
     <h2>Licença:</h2>
     <p>Este projeto é licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais detalhes.</p>
 </body>
+</html>
